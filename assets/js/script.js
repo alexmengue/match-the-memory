@@ -1,6 +1,2 @@
-let test = document.getElementById('test');
-
-test.addEventListener('click', () => {
-    alert('test')
-});
-
+const input = document.querySelector('.login__input');
+const button = document.querySelector('.login__button');
